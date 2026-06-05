@@ -51,11 +51,6 @@ I'm a **Frontend Developer** based in **6th October, Cairo, Egypt** with 3+ year
         > >  
         > >   - ---
         > >
-        > > ## 📊 GitHub Stats
         > >
-        > > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedZ555&show_icons=true&theme=dark&hide_border=true)
-        > >
-        > > ---
-        > >
-        > > *Open to freelance projects, collaborations, and full-time opportunities.*
+        > > *Open to my projects, collaborations, and full-time opportunities.*
         > > [🌐 Visit my Portfolio](https://portfolio-liart-mu-28.vercel.app)
