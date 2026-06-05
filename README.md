@@ -76,6 +76,6 @@ I care deeply about the details — the half-second of loading, the curve of a t
             ---
 
         <p align="center">
-          <i>Open to freelance projects, collaborations, and full-time opportunities.</i>i><br/>
-            <a href="https://portfolio-liart-mu-28.vercel.app">🌐 View my Portfolio</a>a>
-        </p>p></i>
+          <i>Open to freelance projects, collaborations, and full-time opportunities.</i><br/>
+            <a href="https://portfolio-liart-mu-28.vercel.app">🌐 View my Portfolio</a>
+        </p></i>
